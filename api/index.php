@@ -298,7 +298,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         });
         $.ajax({
           cache: true,
-          timeout: 9999,
           type: "POST",
           url: "/index.php",
           data: {
