@@ -1,15 +1,11 @@
 # Vercel-ChatGPT
 在Vercel运行的ChatGPT
 
-### 使用方法
-
-	首先申请密钥：https://beta.openai.com/account/api-keys
-	
-	Clone 本项目
-	
-	更改：/api/index.php第二行的key
-	
-	**为了您的key安全，~~给个star就行~~，别fork这个项目，建议新建一个私人仓库**
+### 使用方
+首先申请密钥：https://beta.openai.com/account/api-keys
+Clone 本项目
+更改：/api/index.php第二行的key
+**为了您的key安全，~~给个star就行~~，别fork这个项目，建议新建一个私人仓库**
 
 ```bash
 git clone https://github.com/xiaoman1221/Vercel-ChatGPT.git
